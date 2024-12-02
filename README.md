@@ -9,8 +9,6 @@ If you need the Version 1 files for compatibility reasons, the files are here: [
 
 ## For a preview, try the [Competency in Undergraduate ECE](https://tiamole.github.io/easy-htmlq-2.0.3/easy-htmlq-2.0.3/#/)
 
-## For a last try: [Competency in Undergraduate ECE](https://tiamole.github.io/easy-htmlq/#/)
-
 Pre-Sorting
 <p align="center">
 <img src="https://github.com/shawnbanasick/easy-htmlq/blob/master/readme_assets/eq-presort.png" width="500" />
