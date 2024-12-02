@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <language version="1.0" htmlParse="true">
+;
+
+        <!-- misc -->
+        <item id="btnContinue">Continue</item>
+        <item id="btnclose">Close</item>
+        <item id="btnHelp">Help!</item>
+        <item id="btnAgreement">Agree</item>
+        <item id="btnNeutral">Neutral</item>
+        <item id="btnDisagreement">Disagree</item>
+        <item id="btnTransfer">Submit data</item>
+        <item id="btnExit">Exit</item>
+        <item id="selectItem">Please select...</item>
+        
+        <!-- Warning when user is trying to leave the page (this item was added for HtmlQ) -->
+        <item id="leaveSiteWarning">Your answers will be lost.</item>
+
+        <!-- HtmlQ only: In-App Back Button -->
+        <item id="backButton">Back</item>
+        <item id="fillInRequiredFields">Please fill in all required fields</item>
+
+        <!-- errors -->
+        <item id="errorHead">Error!</item>
+        <item id="errorWindowTooSmall">Please maximize your browser for using this application.</item>
+
+        <!-- welcome screen (leave blank to skip screen) -->
+        <item id="welcomeHead">Welcome!</item>
+        <item id="welcomeText">Thank you for taking the time to help us explore various perspectives on the competencies that should be emphasized in an undergraduate electrical and computer engineering (ECE) curriculum. Please follow the instructions that follows to complete the Q sort. If you have any questions, please do not hesitate to ask. Thank you!</item>
+
+        <!-- user login, only displayed if access is restricted (see config-file) -->
+        <item id="loginHead">Access Code</item>
+        <item id="loginText">Please enter the access code for this survey.</item>
+        <item id="loginFormHeader">Access Code</item>
+        <item id="loginPartIdText">Your name or survey id number</item>
+        <item id="loginNoInput">Please enter the access code.</item>
+        <item id="loginInvalidInput">Access code invalid</item>
+        <item id="loginNoConnection">Connection to server failed. Please try again.</item>
+
+        <!-- introduction (leave blank to skip popup) -->
+        <item id="introHead">Introduction</item>
+        <item id="introText">You will be evaluating each statement based on YOUR OWN VIEWS of how competencies should be emphasized in ECE undergraduate curriculum. You will find each of the 53 statements stacked on each other. Please proceed to the instructions in steps 1 and 2 below. Each Q sort grid cell can only have one statement. Each statement is only used once.</item>
+
+        <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
+        <item id="step1Head">Step 1 of 3</item>
+        <item id="step1Text">Step1: Quick “Out-of-the-gut" sort
+
+Without-much-thinking, do a quick sort of the 53 statements into the following three general categories: AGREE	 DISAGREE	NEUTRAL</item>
+
+        <!-- step2: sorting (leave blank to skip popup) -->
+        <item id="step2Head">Step 2 of 3</item>
+        <item id="step2Text">Step2: Meticulous or Careful Sorting is Necessary
+
+a) Begin by sorting the statements from the right side of the Q sort grid. Place the statements you generally AGREE with into the grid, starting with your top two most aligned statements in the +6 grid cell. Then, progressively arrange the remaining statements toward the 0-column based on decreasing agreement. 
+
+b) Next, from the left side of the Q sort grid, sort the statements you DISAGREE with in a similar manner, beginning with the statements you most disagree with and working your way toward the 0 column. 
+
+c) Then, sort the statements you <b>feel NEUTRAL about</b> into the Q sort grid to fill the remaining grid cells. 
+
+d) Finally, <b>adjust the placement of the statements,</b> similar to strategizing in a board game, <b>until</b> you are satisfied that <b>they accurately represent your genuine perspective</b> and ranking priority on the topic under review.</item>
+        <item id="step2CondOfInstruc">Give condition of instruction here</item>
+        <item id="step2TextSizeLabel">Text</item>
+        
+
+        <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
+        <item id="step3Head">Step 3 of 3</item>
+        <item id="step3Text">Now you have placed all cards on the score sheet. Please go over your distribution once more and swap card positions cards if desired.</item>
+        <item id="step3CondOfInstruc">Give condition of instruction here</item>
+
+        <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
+        <item id="step4Head">Step 4 of 5</item>
+        <item id="step4Text">Please explain why you agree most or disagree most with the following statements you have placed below "+4" or "-4".</item>
+
+        <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
+        <item id="step5Head">Step 5 of 5</item>
+        <item id="step5Text">Finally, please answer the following questions regarding your background.</item>
+
+        <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
+        <item id="transferHead">Submit Data</item>
+        <item id="transferText">You've finished the survey. Please submit your data now.</item>
+        <item id="transferFailed">Data submission failed. Please try again.</item>
+        <item id="transferOk">Thank you for using Easy HTMLQ!{br}{br}You can now close your browser window.</item>   
+   </language>
