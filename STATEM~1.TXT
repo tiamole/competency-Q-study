@@ -1,34 +1,54 @@
-I think the iPads helped to make a good learning environment for this class
-I learned concepts more easily in this class because we used the iPad 
-I learned more from my classmates in this class than in my other classes because of the iPads
-The iPad helped me to learn things in this class that I would not have learned otherwise
-Using the iPad made it easier for me to make connections between the concepts used in the class 
-Using iPads matches well with my preferred method of learning
-I feel using the iPads motivated me to work harder in this class
-I think that the iPad skills that I learned in this class will help me in other classes
-Using the iPad helped me to focus on the class concepts
-Using the iPad helped me to remember concepts from previous class sessions
-I participated more in this class than my other classes because of the iPads
-Using the iPads with Socrative made it easier for me to express my opinions on the course concepts
-It was interesting to use the iPads and Socrative to see the opinions of other students
-Using the iPads to give feedback on student presentations made them more interesting
-The Kahoot quizzes using iPads helped me to learn the course concepts
-Using the iPads in class made it more difficult for me to speak in English during class
-I wanted to use the iPad to access social media applications (LINE or Facebook) during class 
-Using the iPads in this class wasted valuable class time
-It was difficult for me to understand how to use the iPad apps for this class
-Using the iPad in this class made the course concepts more confusing
-It was difficult to communicate my ideas using the iPad
-The iPad-related material was not well integrated with the other class material
-Having my opinions displayed in the screen in front of the class made me more reluctant to express my opinions
-I became bored while using the iPad during class
-I felt awkward when using the iPad because I am not as skilled with technology as other students seem to be
-The iPad made it more difficult for me to concentrate on the course concepts
-Using the iPad made it more difficult to speak in English with the Professor
-Using the iPad made it more difficult to speak in English with other students
-I lost some confidence in my ability to speak English during class because of the use of iPads
-Using iPads during class was inconvenient
-Use of the iPads didn’t improve the learning environment
-I feel more comfortable using technology after taking this classmates
-I wish more of my classes would use iPads
+Mastery of automation technologies is a fundamental requirement for modern electrical engineers.
+Proficiency in PLC (Programmable Logic Controller) programming is essential for industry readiness.
+In-depth knowledge of instrumentation is crucial for designing and implementing control systems.
+The ability to simulate complex systems provides a competitive edge to engineering graduates.
+Understanding SCADA (Supervisory Control and Data Acquisition) systems is key for managing industrial processes.
+Advanced skills in sensor technology are necessary for developing smart and efficient systems.
+Control systems engineering forms the backbone of automation and should be emphasized in the curriculum.
+Python programming skills are increasingly relevant in electrical and computer engineering.
+MATLAB proficiency is essential for tackling sophisticated engineering problems.
+The use of oscilloscopes and other diagnostic tools should be second nature to engineering students.
+Process control is a vital area of expertise for modern electrical engineers.
+Prototyping skills bridge the gap between theoretical knowledge and practical application.
+The ability to develop and refine design concepts is critical for innovation in engineering.
+Knowledge of Verilog is necessary for students to excel in digital system design.
+Signal processing expertise is indispensable in both research and industry settings.
+A rigorous understanding of the design process is essential for successful engineering projects.
+Proficiency in LabVIEW is crucial for engineers working with integrated hardware and software solutions.
+Skills in VHDL (Very High-Speed Integrated Circuit Hardware Description Language) are critical for the design of digital systems.
+PCB (Printed Circuit Board) design abilities are fundamental for electronics engineering.
+ASIC (Application-Specific Integrated Circuit) design expertise is highly valued in the semiconductor industry.
+Understanding the manufacturing process is as important as the design for engineering students.
+Effective data collection and analysis skills are crucial for making informed engineering decisions.
+Schematic capture expertise is key to successful documentation and understanding of electrical circuits.
+Circuit analysis is a foundational skill that should be mastered by all electrical engineers.
+Digital design proficiency is necessary for the creation of modern electronic devices.
+Engineers who take the initiative drive innovation and progress in technology.
+Presentation skills are crucial for engineers to effectively communicate their ideas.
+Collaboration is the cornerstone of successful engineering projects in today's interconnected world.
+Reliability in engineers is critical to ensure consistency and quality in technical work.
+Communication skills in engineering are just as important as technical acumen.
+Teamwork should be a major focus in engineering programs to prepare students for multidisciplinary projects.
+Problem-solving skills are the essence of engineering and must be cultivated from the start.
+Mentoring is a valuable component of engineering education, fostering the next generation of engineers.
+Creativity is not just for artists; it's essential for engineers designing the future.
+Accountability in engineering work safeguards against errors that could have significant consequences.
+Evaluating the environmental and social impacts of engineering projects is as important as their technical feasibility.
+Leadership is not just about managing teams, but also about inspiring innovation.
+Curiosity leads to breakthroughs; hence, it should be encouraged in engineering education.
+Organizational skills ensure that engineering projects are delivered efficiently and effectively.
+A motivated engineer is a productive and innovative member of the team.
+Negotiation skills are essential for engineers to advocate for resources and project needs.
+Interpersonal skills enable engineers to work well with diverse teams and clients.
+The ability to work independently is vital for engineers in solving complex problems.
+Resilience helps engineers to persevere through challenging projects and setbacks.
+Critical thinking is the bedrock of engineering problem-solving and decision-making.
+Adaptability in engineering is necessary to keep pace with rapid technological changes.
+Conflict resolution skills are essential for maintaining team harmony and productivity.
+Decision-making capabilities are critical in the fast-paced field of engineering.
+Empathy allows engineers to design solutions that truly meet users' needs.
+Being highly organized is not optional; it's a necessity for any successful engineer.
+Innovative thinking in engineers leads to breakthrough technologies and solutions.
+Flexibility and the ability to adapt are key traits for engineers in a rapidly evolving industry.
+Upholding ethical standards is crucial for engineers to maintain public trust and safety.
 
